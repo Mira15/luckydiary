@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.healthcheck.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/question_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#c2185b"
+            android:padding="42dp"
+            android:text=""
+            android:textColor="#FFFFFF"
+            android:textSize="45sp" />
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:onClick="yes"
+            android:paddingLeft="32dp"
+            android:paddingRight="32dp"
+            android:text="yes" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:onClick="sometimes"
+            android:paddingLeft="32dp"
+            android:paddingRight="32dp"
+            android:text="sometimes" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:onClick="no"
+            android:paddingLeft="32dp"
+            android:paddingRight="32dp"
+            android:text="no" />
+
+    </LinearLayout>
+</ScrollView>

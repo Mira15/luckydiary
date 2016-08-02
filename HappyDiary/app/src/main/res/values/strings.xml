@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Happy Diary</string>
+    <string name="write_down">Write down 5 little notes every evening about what made you happy today.</string>
+    <string name="this_app">This app is going to help you with asking you questions about your day and writing it down.</string>
+    <string name="what_was_the_best_thing_you_did_today">1st question: companionship\n%s, what was the best thing you did today?</string>
+    <string name="what_made_you_happy_today">2nd question: serendipity\n%s, what made you happy today?</string>
+    <string name="what_are_the_nicest_talk_you_had_today">3rd question: pleasure\n%s, what are the nicest talk you had today?</string>
+    <string name="what_did_you_really_liked_today">4th question: flow\n%s, what did you really liked today?</string>
+    <string name="what_made_you_smile_today">5th question:bliss\n%s, what made you smile today?</string>
+    <string name="put_name">put your first name</string>
+    <string name="questions">questions</string>
+    <string name="send">send</string>
+    <string name="heute_war">Today I was happy because: </string>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Glückstagebuch</string>
+    <string name="what_was_the_best_thing_you_did_today">#1 %s, welche Begegnung hat Dir gut getan?</string>
+    <string name="what_made_you_happy_today">#2 %s, was ist Dir Unerwartetes passiert?</string>
+    <string name="what_are_the_nicest_talk_you_had_today">#3 %s, was hast Du genießen dürfen?</string>
+    <string name="what_did_you_really_liked_today">#4 %s, worin konntest Du Dich konzentriert vertiefen?</string>
+    <string name="what_made_you_smile_today">#5 %s, wodurch hast Du eine Gänsehaut bekommen?</string>
+    <string name="Wie_heißt_Du">Wie heißt Du?</string>
+    <string name="beginne_heute">Beginne heute mit Deinem Glückstagebuch!\n\nDiese App möchte Dir helfen, Deine glücklichen Momente des Tages zu notieren, indem sie Dich konkret fragt.</string>
+    <string name="nimm_Dir">Nimm Dir jeden Abend ein paar Minuten Zeit, um die folgenden fünf Fragen zu beantworten. Danach kannst Du alles, was Dich glücklich gemacht hat, teilen.</string>
+    <string name="es_ist">Es ist richtig schlimm</string>
+    <string name="morgen_ist">Morgen ist auch noch ein Tag</string>
+    <string name="das_leben">Das Leben ist schön</string>
+    <string name="ueber_beide">Über beide Ohren dabei</string>
+    <string name="einfach_nur">Einfach nur grandios</string>
+    <string name="markiere_deinen">Markiere Deinen Status des Tages im Glücksbarometer:</string>
+    <string name="heute_war">Heute war ich glücklich</string>
+    <string name="gemeinschaft">#1 Gemeinschaft</string>
+    <string name="gluecksfall">#2 Glücksfall</string>
+    <string name="genuss">#3 Genuss</string>
+    <string name="selbstueberwindung">#4 Selbstüberwindung</string>
+    <string name="reichhaltigkeit">#5 Reichhaltigkeit</string>
+    <string name="weiter">weiter</string>
+    <string name="weil">weil</string>
+    <string name="teilen">teilen</string>
+</resources>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.layouttest.MainActivity">
+
+
+    <TextView
+        android:id="@+id/leyla_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="#9c27b0"
+        android:text="Leyla"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/natalie_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/leyla_text_view"
+        android:layout_alignParentLeft="true"
+        android:background="#9c27b0"
+        android:text="Natalie"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/mira_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/natalie_text_view"
+        android:layout_alignParentLeft="true"
+        android:background="#9c27b0"
+        android:text="Mira"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/jenni_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="#f8bbd0"
+        android:text="Jenni"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/omoju_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/jenni_text_view"
+        android:layout_alignParentRight="true"
+        android:background="#f8bbd0"
+        android:text="Omoju"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/amy_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/omoju_text_view"
+        android:layout_alignParentRight="true"
+        android:background="#f8bbd0"
+        android:text="Amy"
+        android:textSize="24sp" />
+
+
+    <TextView
+        android:id="@+id/ben_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="#009688"
+        android:text="Ben"
+        android:textSize="24sp" />
+
+
+    <TextView
+        android:id="@+id/kagure_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/ben_text_view"
+        android:background="#009688"
+        android:text="Kagure"
+        android:textSize="24sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="halloWelt"
+        android:text="HalloWelt" />
+
+    <EditText
+        android:id="@+id/ideas_new"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/hallo_welt"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="242dp"
+        android:hint="type in your great ideas"
+        android:inputType="textMultiLine"
+        android:textColor="#ff4081" />
+
+
+</RelativeLayout>

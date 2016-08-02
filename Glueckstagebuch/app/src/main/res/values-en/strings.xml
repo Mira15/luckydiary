@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lucky diary</string>
+    <string name="heute_war">Today I was happy</string>
+    <string name="Wie_heißt_Du">put your first name</string>
+    <string name="beginne_heute">Start today with your lucky diary!\n\nThis app would help you to record your happy moments of the day - by asking you precisely.</string>
+    <string name="nimm_Dir">Every evening take a few minutes to answer the following five questions. Then you can share everything what made you happy.</string>
+    <string name="das_leben">Life is just great</string>
+    <string name="einfach_nur">Seems to be perfect</string>
+    <string name="es_ist">It is really bad</string>
+    <string name="morgen_ist">There will be another day, tomorrow</string>
+    <string name="ueber_beide">Totally into it</string>
+    <string name="markiere_deinen">All in all how was your day?</string>
+    <string name="what_are_the_nicest_talk_you_had_today">%s, what were you free to enjoy?</string>
+    <string name="what_did_you_really_liked_today">%s, upon what were you able to focus intensively?</string>
+    <string name="what_made_you_happy_today">%s, what happened unexpectedly?</string>
+    <string name="what_made_you_smile_today">%s, whereby did you get goose bumps?</string>
+    <string name="what_was_the_best_thing_you_did_today">%s, which encounter made you feel well?</string>
+    <string name="gemeinschaft">#1 companionship</string>
+    <string name="genuss">#3 pleasure</string>
+    <string name="gluecksfall">#2 serendipity</string>
+    <string name="reichhaltigkeit">#5 abundance</string>
+    <string name="selbstueberwindung">#4 flow</string>
+    <string name="teilen">share</string>
+    <string name="weil">because</string>
+    <string name="weiter">next</string>
+</resources>

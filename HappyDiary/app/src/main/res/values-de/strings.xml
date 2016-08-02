@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Happy Diary</string>
+    <string name="this_app">Beginne heute mit Deinem Glückstagebuch! Diese App möchte Dir dabei helfen, indem sie konkret nachfragt.</string>
+    <string name="write_down">Nimm Dir jeden Abend ein paar Minuten Zeit, um die folgenden fünf Fragen zu beantworten und sie Dir danach als Notiz zu schicken.</string>
+    <string name="what_was_the_best_thing_you_did_today">#1 = Glück der Gemeinschaft: , welche Begegnung mit einem Menschen hat Dir gut getan?</string>
+    <string name="what_made_you_happy_today">#2 = Glück des Zufalls: , was ist Dir Unvorhergesehenes passiert?</string>
+    <string name="what_are_the_nicest_talk_you_had_today">#3 = Glück des Momentes: , was hast Du genießen dürfen?</string>
+    <string name="what_did_you_really_liked_today">#4 = Glück der Selbstüberwindung: , worin konntest Du Dich konzentriert vertiefen ?</string>
+    <string name="what_made_you_smile_today">#5 = Glück der Fülle: , wodurch hast Du eine Gänsehaut bekommen?</string>
+    <string name="put_name">Wie heißt Du?</string>
+    <string name="questions">Fragen</string>
+    <string name="send">schicken</string>
+    <string name="heute_war">Heute war ich glücklich, weil:</string>
+</resources>
